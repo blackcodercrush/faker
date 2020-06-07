@@ -15,4 +15,4 @@ $ python2 faker.py
 ```
 
 # Screenshot
-<img src="fake.jpg" />
+<img src="faker.jpg" />
