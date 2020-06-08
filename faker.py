@@ -64,7 +64,7 @@ print('\t{}[{}+{}] Nat{}: {}{}').format(pu,i,pu,me,cy,res["nat"].encode('utf-8')
 ask = raw_input('\n\t{}[{}?{}] Reset{}/{}Exit{}[{}R{}/{}E{}]{}: {}'.format(pu,ku,pu,me,pu,bi,i,pu,i,bi,me,cy))
 
 if ask.lower() == 'r':
-	os.system('python2 fake.py')
+	os.system('python2 faker.py')
 else:
 	exit(reset)
 
